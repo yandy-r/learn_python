@@ -43,7 +43,7 @@ To get started with the Python Learning and Practice Repository, follow these st
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/python-learning-repo.git
+   git clone https://github.com/kidinstinct/learn_python.git
    ```
 
 2. Ensure you have Python installed on your system. You can download the latest version of Python from the official
